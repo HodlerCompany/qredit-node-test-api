@@ -14,3 +14,10 @@ This allows you to easily build an UI that provides a clean and simple interface
 ## License
 
 [MIT](LICENSE) ©
+
+
+seed node: 185.85.18.192 (port 4100)
+nethash: 5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193
+network: Qredit
+pubKeyHash / version: 0x3a (hex)
+wif: 0xaa (hex)
