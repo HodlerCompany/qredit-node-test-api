@@ -24,4 +24,4 @@ network: Qredit
 
 pubKeyHash / version: 0x3a (hex)
 
-wif: 0xaa (hex)
+wif: 0xbb (hex)
