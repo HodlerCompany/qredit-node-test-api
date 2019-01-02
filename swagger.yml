@@ -1,5 +1,3 @@
----
-swagger: '2.0'
 
 info:
   description: |
@@ -14,8 +12,6 @@ host: api.qredit.cloud
 
 basePath: "/"
 
-schemes:
-  - http
 
 produces:
   - application/json
