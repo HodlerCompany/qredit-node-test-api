@@ -8,7 +8,7 @@ info:
   version: 1.0.0
   title: Qredit Node Documentation
 
-host: 185.85.18.192:4101
+host: 185.85.18.192:4100
 
 basePath: "/"
 
