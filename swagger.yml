@@ -8,10 +8,12 @@ info:
   version: 1.0.0
   title: Qredit Node Documentation
 
-host: api.qredit.cloud
+host: 185.85.18.192:4101
 
 basePath: "/"
 
+schemes:	
+  - http
 
 produces:
   - application/json
