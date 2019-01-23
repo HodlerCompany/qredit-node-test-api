@@ -8,7 +8,7 @@ info:
   version: 1.0.0
   title: Qredit Node Documentation
 
-host: 185.85.18.192:4100
+host: 136.144.170.17:4101
 
 basePath: "/"
 
@@ -50,7 +50,7 @@ parameters:
     in: header
     type: integer
     description: 'A valid server port.'
-    default: 4100
+    default: 4101
     required: true
     minLength: 1
     maxLength: 65535
